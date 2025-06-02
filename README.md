@@ -8,7 +8,7 @@ This repository contains the model and additional code used for the Kaggle compe
         Clone the starter code <a href="https://github.com/salvaRC/cse151b-spring2025-competition" target="_blank">repository</a> and follow the setup instructions.
     </li>
     <li>
-        Replace/add corresponding files from this repository into the starter code repository.
+        Replace/add corresponding files from the <code>StarterCodeUpdates</code> folder into the starter code repository.
     </li>
     <li>
         Inside <code>models.py</code>, add the following import:
