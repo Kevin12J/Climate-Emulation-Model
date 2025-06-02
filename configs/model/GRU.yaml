@@ -1,0 +1,12 @@
+# @package _global_.model
+
+# Model type identifier
+type: GRU
+# Model architecture parameters
+kernel_size: 3
+init_dim: 16
+dropout_rate: 0.2
+height: 48
+width: 47
+gru_hidden: 512
+gru_layers: 2
